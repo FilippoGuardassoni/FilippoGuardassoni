@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   My name is Filippo Guardassoni
 ===========================================================================================================================================
 
-Data Scientist Student
+Data Scientist Student @ UNIMI
 ----------------------
 
 Strong analytical thinker with problem solving and presentation skills, thriving in a team-based environment. Looking to work in the field as Data Scientist to apply prior knowledge to make an impact on the business as well as to broaden my expertise through constant learning.
