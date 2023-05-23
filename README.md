@@ -7,7 +7,7 @@ Data Scientist Student @ UNIMI
 Strong analytical thinker with problem solving and presentation skills, thriving in a team-based environment. Looking to work in the field as Data Scientist to apply prior knowledge to make an impact on the business as well as to broaden my expertise through constant learning.
 
 * 🌍  I'm based in Milan, Italy
-* 🖥️  See my portfolio at [filippoguardassoni.com](http://filippoguardassoni.com/)
+* 🖥️  See my personal website at [filippoguardassoni.com](http://filippoguardassoni.com/)
 * ✉️  You can contact me at [filippo.guardassoni@gmail.com](mailto:filippo.guardassoni@gmail.com)
 * 🚀  I'm currently working on [my master thesis](http://https://github.com/FilippoGuardassoni/master_thesis)
 * 🧠  I'm learning autoML techniques
