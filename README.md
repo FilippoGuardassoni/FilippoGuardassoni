@@ -9,7 +9,7 @@ Strong analytical thinker with problem solving and presentation skills, thriving
 * 🌍  I'm based in Milan, Italy
 * 🖥️  See my personal website at [filippoguardassoni.com](http://filippoguardassoni.com/)
 * ✉️  You can contact me at [filippo.guardassoni@gmail.com](mailto:filippo.guardassoni@gmail.com)
-* 🚀  I'm currently working on [my master thesis](http://https://github.com/FilippoGuardassoni/master_thesis)
+* 🚀  I'm currently working as Data & Machine Learning Engineer
 * 🧠  I'm learning autoML techniques
 * 🤝  I'm open to collaborating on research projects
 
